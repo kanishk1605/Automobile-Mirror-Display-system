@@ -14,7 +14,8 @@ Each of them consists of 8 bits. Assume the display system has two additional in
 When xy=00, display T. When xy=01, display A. When xy=10, display I. When xy=10, display M.
 
 
-We can design display system using 8-bit 4x1 multiplexers as shown below:
+We can design the display system using 8-bit 4x1 multiplexers as shown below:
 
+![image](https://github.com/kanishk1605/Automobile-Mirror-Display-system/assets/105859363/13412cc6-1be4-44f8-8608-8414d05acb3b)
 
-
+## Output-Explanation
