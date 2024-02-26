@@ -18,4 +18,4 @@ We can design the display system using 8-bit 4x1 multiplexers as shown below:
 
 ![image](https://github.com/kanishk1605/Automobile-Mirror-Display-system/assets/105859363/13412cc6-1be4-44f8-8608-8414d05acb3b)
 
-## Output-Explanation
+
