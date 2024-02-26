@@ -8,4 +8,13 @@ Some cars come with a display above the car window mirror as shown below:
 
 A driver can press a button named mode to select among displaying the average miles-per-gallon of the car and approximate miles remaining until the car runs out of gas.
 
-Assume the car's central computer sends the data to display in four 8-bit binary numbers, T(temperature), A
+Assume the car's central computer sends the data to display in four 8-bit binary numbers, T(temperature), A(Average mpg), I(Instantaneous mpg) and M(Miles remaining).
+Each of them consists of 8 bits. Assume the display system has two additional inputs x and y, which always change according to the following sequences-00,01,10,11.
+
+When xy=00, display T. When xy=01, display A. When xy=10, display I. When xy=10, display M.
+
+
+We can design display system using 8-bit 4x1 multiplexers as shown below:
+
+
+
